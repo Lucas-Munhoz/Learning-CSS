@@ -1,2 +1,2 @@
 # Learning-CSS
- Just me learning css
+ Just me learning CSS
