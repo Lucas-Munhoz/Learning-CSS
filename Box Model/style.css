@@ -1,0 +1,15 @@
+h1{
+    margin: 45px 45px 45px 45px;
+    border: 45px solid white;
+    padding: 45px 45px 45px 45px;
+}
+
+img{
+    margin: 150px 150px 150px 150px;
+    border: 150px solid white;
+    padding: 150px 150px 150px 150px;
+}
+
+body{
+    text-align: center;
+}

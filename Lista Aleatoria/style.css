@@ -1,0 +1,12 @@
+.primeira_lista{
+    border: 2px solid;
+}
+
+.primeira_lista ul{
+    border: inherit;
+}
+
+.segunda_lista{
+    color: rgb(0, 63, 0);
+
+}

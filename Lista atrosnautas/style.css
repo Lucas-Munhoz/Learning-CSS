@@ -1,0 +1,25 @@
+body{
+    background-color: #696969;
+    color: #ffffff;
+}
+
+h1 {
+    padding-left: 5px;
+    color: #ffffff;
+}
+
+h2{
+    padding-left: 5px;
+    color: #000000;
+    background-color: #6495ed;
+    border: 2px solid;
+}
+
+h3 {
+    padding-left: 5px;
+    color: #6495ed;
+}
+
+.importante{
+    color: #ff7f50;
+}

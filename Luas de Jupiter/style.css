@@ -1,0 +1,33 @@
+body{
+    background-image: url('ImagemEspaço.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    background-color: gray;
+    font-size: 60px;
+    color: rgb(255, 180, 88);
+    border: 2px dashed yellow; /* Esse carinha faz o mesmo que os 3 comando abaixo*/
+}
+
+li{
+    color: bisque;
+    border-color: aquamarine;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.moon{
+    color: rgb(255, 0, 43);
+}
+
+#titulo1{
+    font-size: 100px;
+}
+
+#euro{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color: blueviolet;
+}

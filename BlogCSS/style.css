@@ -1,0 +1,43 @@
+header{
+    margin-bottom: 7%;
+    overflow: hidden;
+    background-color: rgb(220, 220, 205);
+}
+
+body{
+    margin: 0;
+}
+
+#titulo{
+    color: #009e9e;
+    text-decoration: underline;
+    margin: 2.5% auto 3% 2%;
+}
+
+.main-div{
+    margin: auto 15% auto 15%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section{
+    background-color: #fffafa;
+    text-align: left;
+}
+
+.texts{
+    margin: 3%;
+}
+
+.main-div .texts h1{
+    font-family: 'Roboto', sans-serif;
+}
+
+.main-div .texts h4{
+    color: #009e9e;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.main-div .texts p{
+    font-size: 18px;
+}
