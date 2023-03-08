@@ -1,3 +1,2 @@
 # Learning-CSS
- Just me learning CSS
- OneBitCode Course
+ Just me learning CSS from OneBitCode Course
